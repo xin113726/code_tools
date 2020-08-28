@@ -19,19 +19,19 @@ npm install yarn -g
 
 **安装**
 
-yarn install
+`yarn install`
 
 **启动**
 
-yarn serve
+`yarn serve`
 
 **打包**
 
-yarn build
+`yarn build`
 
 **代码校验**
 
-yarn lint
+`yarn lint`
 
 ## npm
 
