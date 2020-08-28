@@ -17,28 +17,28 @@
 
 npm install yarn -g
 
-**安装**
+**安装项目依赖**
 
 ```
 yarn install
 ```
 
-**启动**
+**安装依赖包**
 
 ```
-yarn serve
+yarn add [package]
 ```
 
-**打包**
+**升级依赖包**
 
 ```
-yarn build
+yarn upgrade [package]
 ```
 
-**代码校验**
+**移除依赖包**
 
 ```
-yarn lint
+yarn remove [package]
 ```
 
 ## npm
