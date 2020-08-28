@@ -15,7 +15,23 @@
 
 ## yarn
 
+npm install yarn -g
 
+**安装**
+
+yarn install
+
+**启动**
+
+yarn serve
+
+**打包**
+
+yarn build
+
+**代码校验**
+
+yarn lint
 
 ## npm
 
