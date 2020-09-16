@@ -49,6 +49,6 @@ npm cache clean --force
 
 ## VSCode
 
-[VSCode 插件](https://github.com/xin113726/tools/issues/6)
+[VSCode 插件](https://github.com/xin113726/code_tools/issues/6)
 
-[VSCode 快捷键](https://github.com/xin113726/tools/issues/7)
+[VSCode 快捷键](https://github.com/xin113726/code_tools/issues/7)
