@@ -7,6 +7,18 @@
 
 [Vue 3+](https://github.com/xin113726/code_tools/issues/5)
 
+## TypeScript
+
+[ts 类型](https://github.com/xin113726/code_tools/issues/8)
+
+## JavaScript
+
+[字符串](https://github.com/xin113726/code_tools/issues/9)
+
+[数组](https://github.com/xin113726/code_tools/issues/10)
+
+[对象](https://github.com/xin113726/code_tools/issues/11)
+
 ## Gulp
 
 [Gulp 插件](https://github.com/xin113726/build_tools/issues/1)
