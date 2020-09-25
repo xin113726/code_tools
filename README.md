@@ -19,6 +19,8 @@
 
 [对象](https://github.com/xin113726/code_tools/issues/11)
 
+[位运算](https://github.com/xin113726/code_tools/issues/12)
+
 ## Gulp
 
 [Gulp 插件](https://github.com/xin113726/build_tools/issues/1)
