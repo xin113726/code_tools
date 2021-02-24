@@ -82,3 +82,7 @@ npm cache clean --force
 ## 项目
 
 [优化](https://github.com/xin113726/code_tools/issues/16)
+
+## 版本管理
+
+[Git & Github](https://github.com/xin113726/code_tools/issues/18)
