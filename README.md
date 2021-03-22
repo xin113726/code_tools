@@ -39,7 +39,7 @@
 
 ## Webpack
 
-[Webpack 基础](https://github.com/xin113726/code_tools/issues/14)
+[Webpack5 基础](https://github.com/xin113726/code_tools/issues/14)
 
 ## Yarn
 
