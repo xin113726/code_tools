@@ -9,10 +9,6 @@
 
 [Vue 3+](https://github.com/xin113726/code_tools/issues/5)
 
-## TypeScript
-
-[ts 类型](https://github.com/xin113726/code_tools/issues/8)
-
 ## JavaScript
 
 [字符串](https://github.com/xin113726/code_tools/issues/9)
@@ -26,6 +22,10 @@
 ## CSS
 
 [flex](https://github.com/xin113726/code_tools/issues/17)
+
+## TypeScript
+
+[ts 类型](https://github.com/xin113726/code_tools/issues/8)
 
 ## Node
 
@@ -41,7 +41,9 @@
 
 [Webpack5 基础](https://github.com/xin113726/code_tools/issues/14)
 
-## Yarn
+## 包管理工具
+
+### Yarn
 
 npm install yarn -g
 
@@ -69,7 +71,7 @@ yarn upgrade [package]
 yarn remove [package]
 ```
 
-## npm
+### npm
 
 npm cache clean --force
 
@@ -79,10 +81,12 @@ npm cache clean --force
 
 [VSCode 快捷键](https://github.com/xin113726/code_tools/issues/7)
 
-## 项目
-
-[优化](https://github.com/xin113726/code_tools/issues/16)
-
 ## 版本管理
 
 [Git & Github](https://github.com/xin113726/code_tools/issues/18)
+
+## 其他
+
+[优化](https://github.com/xin113726/code_tools/issues/16)
+
+[英语](https://github.com/xin113726/code_tools/issues/19)
