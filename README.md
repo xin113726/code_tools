@@ -11,6 +11,8 @@
 
 ## JavaScript
 
+[ES6](https://github.com/xin113726/code_tools/issues/21)
+
 [字符串](https://github.com/xin113726/code_tools/issues/9)
 
 [数组](https://github.com/xin113726/code_tools/issues/10)
