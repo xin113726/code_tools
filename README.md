@@ -13,6 +13,8 @@
 
 [ES6](https://github.com/xin113726/code_tools/issues/21)
 
+[ES6 - 类、Proxy](https://github.com/xin113726/code_tools/issues/22)
+
 [字符串](https://github.com/xin113726/code_tools/issues/9)
 
 [数组](https://github.com/xin113726/code_tools/issues/10)
