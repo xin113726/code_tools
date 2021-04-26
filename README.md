@@ -49,37 +49,9 @@
 
 ## 包管理工具
 
-### Yarn
+[yarn & npm](https://github.com/xin113726/build_tools/issues/23)
 
-npm install yarn -g
-
-**安装项目依赖**
-
-```
-yarn install
-```
-
-**安装依赖包**
-
-```
-yarn add [package]
-```
-
-**升级依赖包**
-
-```
-yarn upgrade [package]
-```
-
-**移除依赖包**
-
-```
-yarn remove [package]
-```
-
-### npm
-
-npm cache clean --force
+[package](https://github.com/xin113726/build_tools/issues/24)
 
 ## VSCode
 
