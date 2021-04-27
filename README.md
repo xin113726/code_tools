@@ -37,6 +37,8 @@
 
 [Node 基础](https://github.com/xin113726/code_tools/issues/13)
 
+[nvm-windows](https://github.com/xin113726/code_tools/issues/25)
+
 ## Gulp
 
 [Gulp 插件](https://github.com/xin113726/build_tools/issues/1)
