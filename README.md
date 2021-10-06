@@ -25,6 +25,8 @@
 
 [异步编程](https://github.com/xin113726/code_tools/issues/20)
 
+[算法](https://github.com/xin113726/code_tools/issues/29)
+
 ## CSS
 
 [flex](https://github.com/xin113726/code_tools/issues/17)
