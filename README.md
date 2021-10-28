@@ -27,6 +27,8 @@
 
 [算法](https://github.com/xin113726/code_tools/issues/29)
 
+[函数](https://github.com/xin113726/code_tools/issues/30)
+
 ## CSS
 
 [flex](https://github.com/xin113726/code_tools/issues/17)
