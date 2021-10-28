@@ -29,6 +29,8 @@
 
 [函数](https://github.com/xin113726/code_tools/issues/30)
 
+[正则表达式](https://github.com/xin113726/code_tools/issues/31)
+
 ## CSS
 
 [flex](https://github.com/xin113726/code_tools/issues/17)
