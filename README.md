@@ -29,8 +29,6 @@
 
 [函数](https://github.com/xin113726/code_tools/issues/30)
 
-[正则表达式](https://github.com/xin113726/code_tools/issues/31)
-
 ## TypeScript
 
 [ts 类型](https://github.com/xin113726/code_tools/issues/8)
